@@ -1,0 +1,11 @@
+export GITHUB_USERNAME=Candyman-bash
+
+export GITHUB_EMAIL=dcandelario90@gmail.com
+
+mkdir -p ~/git
+
+cd ~/git
+
+git clone git@github.com$GITHUB_Candyman-bash/metasploit-framework
+
+ ~/git/metasploit-framework
